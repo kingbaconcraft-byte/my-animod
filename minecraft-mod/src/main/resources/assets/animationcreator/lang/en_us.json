@@ -1,0 +1,22 @@
+{
+  "screen.animationcreator.creator": "Animation Creator",
+  "screen.animationcreator.library": "Animation Library",
+  "screen.animationcreator.editor": "Animation Editor",
+
+  "key.animationcreator.open_creator": "Open Animation Creator",
+  "key.animationcreator.open_library": "Open Animation Library",
+  "category.animationcreator.main": "Animation Creator",
+
+  "animationcreator.status.generating": "Generating animation…",
+  "animationcreator.status.success": "Animation created!",
+  "animationcreator.status.error": "Generation failed",
+  "animationcreator.status.saved": "Animation saved!",
+
+  "animationcreator.hub.generated": "Animation City Hub generated!",
+  "animationcreator.hub.walkforward": "Walk forward ~10 blocks to reach the hub.",
+
+  "command.animationcreator.list.empty": "No animations in library.",
+  "command.animationcreator.play.success": "Now playing: %s",
+  "command.animationcreator.stop.success": "Animation stopped.",
+  "command.animationcreator.reload.success": "Reloaded %s animations from disk."
+}

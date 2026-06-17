@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "animationcreator",
+  "version": "${version}",
+  "name": "Animation Creator",
+  "description": "Create, edit and apply custom Minecraft animations from natural-language prompts. Includes an in-game GUI, animation library, editor, City Hub, and free AI generation via Pollinations.ai (no API key required).",
+  "authors": ["AnimationCreator Team"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.animationcreator.AnimationCreatorMod"
+    ],
+    "client": [
+      "com.animationcreator.client.AnimationCreatorClient"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "fabric-api": "*",
+    "minecraft": "~1.21.1",
+    "java": ">=21"
+  }
+}
